@@ -754,4 +754,5 @@ input[type=text], input[type=password], textarea {
 
 #logo img {
   max-width: 100%;
+  margin-bottom: 10px;
 }
