@@ -291,6 +291,8 @@ h4 {
 #index p {
   width: auto;
   margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* line 39, ../sass/screen.scss */
