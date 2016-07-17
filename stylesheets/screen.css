@@ -346,8 +346,8 @@ h4 {
 /* line 54, ../sass/screen.scss */
 #index {
   width: 215px;
-  background: #f9f9f9;
-  /* line-height: 1.3em; */
+  /*background: #f9f9f9;*/
+  background-image: url('../images/bg.png') repeat;
 }
 
 /* line 55, ../sass/screen.scss */
