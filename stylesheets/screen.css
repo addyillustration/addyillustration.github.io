@@ -420,7 +420,7 @@ li.active a:visited, li a.active, li span.active, #index ul.section li.active a:
 /* this is where you adjust your paddings for #index and #exhibit together */
 /* line 99, ../sass/screen.scss */
 .container {
-  padding: 25;
+  padding: 25px;
 }
 
 /* this is where you pad them separately */
