@@ -2,8 +2,8 @@
 published: true
 layout: default
 
-title: ¡Bienvenidos!
-section: Concursos seleccionados
+title: Welcome to Addy illustration
+section: Home
 category: exhibit
 home: true
 ---
