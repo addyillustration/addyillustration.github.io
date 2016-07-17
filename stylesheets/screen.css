@@ -342,7 +342,7 @@ h4 {
 /* line 54, ../sass/screen.scss */
 #index {
   width: 215px;
-  background: #fff;
+  background: #f9f9f9;
   /* line-height: 1.3em; */
 }
 
@@ -420,7 +420,7 @@ li.active a:visited, li a.active, li span.active, #index ul.section li.active a:
 /* this is where you adjust your paddings for #index and #exhibit together */
 /* line 99, ../sass/screen.scss */
 .container {
-  padding: 27px 9px 25px 27px;
+  padding: 25;
 }
 
 /* this is where you pad them separately */
