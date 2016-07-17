@@ -197,12 +197,12 @@ object {
 
 /* line 9, ../sass/screen.scss */
 body {
-  font-size: 13px;
+  font-size: 16px;
   font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif;
   background: #fff;
   color: #000;
-  line-height: 1.3em;
-  /* font-weight: 300; */
+  line-height: 1.6em;
+  font-weight: 300;
 }
 
 /* link scheme */
@@ -295,7 +295,7 @@ h4 {
 
 /* line 39, ../sass/screen.scss */
 #exhibit p, code, blockquote {
-  width: 450px;
+  width: 750px;
   margin-bottom: 1em;
   /* line-height: 1.3em; */
 }
