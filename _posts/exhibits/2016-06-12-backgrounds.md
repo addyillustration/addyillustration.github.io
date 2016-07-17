@@ -1,4 +1,4 @@
- ---
+---
 published: true
 layout: default
 
