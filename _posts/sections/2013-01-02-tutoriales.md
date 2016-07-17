@@ -2,6 +2,6 @@
 published: true
 layout: default
 
-title: Tutoriales
+title: Tutorials
 category: section
 ---
