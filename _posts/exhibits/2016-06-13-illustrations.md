@@ -6,4 +6,5 @@ section: Works
 category: exhibit
 ---
 
-![]({{site.baseurl}}/_posts/exhibits/avatar2.jpg)
+![]({{site.baseurl}}/images/avatar.jpg)
+![]({{site.baseurl}}/images/bigdaddy.jpg)
