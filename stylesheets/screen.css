@@ -737,3 +737,10 @@ input[type=text], input[type=password], textarea {
   height: 4px;
   width: 4px;
 }
+
+/* CUSTOM CSS */
+#section_title_/section/about,
+#section_title_/section/tutorials,
+#section_title_/section/contact {
+  display: none;
+}
