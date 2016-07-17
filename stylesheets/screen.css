@@ -751,3 +751,7 @@ input[type=text], input[type=password], textarea {
 #exhibit_\/exhibit\/others {
   margin-left: 4px;
 }
+
+#logo {
+  max-width: 100%;
+}
