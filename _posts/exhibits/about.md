@@ -7,8 +7,10 @@ section: About
 category: exhibit
 ---
 
-En Colaborativa planificamos, diseñamos y construimos tecnología de manera artesanal. Colaboramos con personas, asociaciones y empresas en proyectos reales que marcan la diferencia.
+I am an Illustrator specializing in conceptual design, but I also work in other areas. I am doing many projects and always learning new things. As personal projects I am now on Youtube where I intend to begin to teach illustration and Photoshop and also with an autopublicable personal project.
+If you want to contact me or have any questions: <a href="mailto:adrianarojasromo@gmail.com">adrianarojasromo@gmail.com</a>
+Greetings!
 
-
-<iframe src="http://player.vimeo.com/video/58116607" width="500" height="281" frameborder="0" webkitAllowFullScreen="true" mozallowfullscreen="true" allowFullScreen="true"></iframe> 
-<p><a href="http://vimeo.com/58116607">Montaje RepRapPro Huxley en Colaboratorio</a> from <a href="http://vimeo.com/colaborativa">colaborativa</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+Soy una ilustradora especializada en el diseño conceptual, pero también trabajo en otros ámbitos. Estoy haciendo muchos proyectos y siempre aprendiendo cosas nuevas. Como proyectos personales ahora me encuentro en Youtube donde tengo la intención de empezar a dar clases de ilustración y Photoshop y además con un proyecto personal autopublicable. 
+Si quieres contactar conmigo o tienes alguna pregunta: <a href="mailto:adrianarojasromo@gmail.com">adrianarojasromo@gmail.com</a>
+Un saludo!
