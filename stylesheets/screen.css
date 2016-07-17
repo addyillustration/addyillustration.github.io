@@ -744,3 +744,10 @@ input[type=text], input[type=password], textarea {
 #section_title_\/section\/contact {
   display: none;
 }
+
+exhibit_\/exhibit\/illustrations,
+exhibit_\/exhibit\/characterdesign,
+exhibit_\/exhibit\/backgrounds,
+exhibit_\/exhibit\/others {
+  margin-left: 4px;
+}
