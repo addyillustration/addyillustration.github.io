@@ -1,10 +1,9 @@
 ---
 published: true
 layout: default
-
 title: Illustrations
 section: Works
 category: exhibit
 ---
 
-Illustrations
+![]({{site.baseurl}}/_posts/exhibits/avatar2.jpg)
